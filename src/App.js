@@ -215,7 +215,7 @@ class App extends Component {
             </Row>
             <div>
               <h5 className="App-Developers-name">
-                Developed by : Aditya Dixit
+                Developed by : Rashmi Ranjan
               </h5>
             </div>
           </Container>
